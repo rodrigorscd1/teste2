@@ -6,5 +6,4 @@ const idadePet = 5;
 let aluno = "Rodrigo";
 const test = 10;
 
-gfnryrj
-iiiiiii
+console.log(pet)
